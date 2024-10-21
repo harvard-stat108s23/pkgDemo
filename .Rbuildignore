@@ -1,2 +1,5 @@
 ^pkgDemo\.Rproj$
 ^\.Rproj\.user$
+^pkgDemo\.Rcheck$
+^pkgDemo.*\.tar\.gz$
+^pkgDemo.*\.tgz$
